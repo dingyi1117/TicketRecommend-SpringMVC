@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Mar 26 02:37:10 EDT 2018
+org.eclipse.jst.jee.server\:mars=C\:\\Users\\dingy\\tomcat9.0\\apache-tomcat-9.0.5\\wtpwebapps\\mars
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\dingy\\.m2\\repository\\org\\springframework\\spring-web\\5.0.4.RELEASE\\spring-web-5.0.4.RELEASE.jar=C\:\\Users\\dingy\\tomcat9.0\\apache-tomcat-9.0.5\\wtpwebapps\\mars\\WEB-INF\\lib\\spring-web-5.0.4.RELEASE.jar
